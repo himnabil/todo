@@ -1,0 +1,6 @@
+init firebase #firebase 
+auth flow with google #firebase.auth.Google
+re-eval tasks
+todo feature ugly
+css
+keyboard short-cut feature 
